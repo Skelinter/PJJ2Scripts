@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Skelinter/PJJ2Scripts/refs/heads/main/PJJESP.lua", true))()
+
